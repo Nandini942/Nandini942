@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandini942&label=Profile%20views&color=0e75b6&style=flat" alt="nandini942" /> </p>
 
-- 🔭 I’m currently working on **AI/ML**
-
 - 📫 How to reach me **nandinisethi132@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
